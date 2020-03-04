@@ -1,0 +1,37 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #eee;
+}
+
+body h1 {
+    margin: 0;
+    text-align: center;
+    padding: 2.5%;
+}
+
+.wrapper {
+    width: 60%;
+    height: 100%;
+    background-color: #fff;
+    text-align: center;
+    margin: 0 20%;
+}
+
+#question {
+    font-size: 1.5em;
+}
+
+#history {
+    padding-top: 1%;
+    height: 30%;
+    max-height: 30%;
+    overflow-y: auto;
+}
+
+#stats {
+    padding-top: 5%;
+    font-size: 1.25em;
+}
