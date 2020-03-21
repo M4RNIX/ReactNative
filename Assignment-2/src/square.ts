@@ -1,1 +1,1 @@
-export default (a : number) => a * a;
+export default (a: number): number => a * a;
